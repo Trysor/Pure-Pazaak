@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pure Pazaak</string>
+    
+    
+    <string-array name="statistics">
+            <item>stats_num_1vAI</item>
+            <item>stats_num_1v1</item>
+            <item>games_won_ratio</item>
+            <item>stats_num_matches_won</item>
+            <item>stats_num_matches_lost</item>
+            <item>stats_num_forfeits</item>
+            <item>stats_num_cards_used</item>
+            <item>stats_num_sets_won</item>
+            <item>stats_num_sets_lost</item>
+            <item>stats_num_sets_draw</item>
+    </string-array>
+    
+    <string-array name="menu_button_texts">
+            <item>1 PLAYER</item>
+            <item>2 PLAYER</item>
+            <item>STORY</item>
+            <item>INSTRUCTIONS</item>
+            <item>CREDITS</item>
+            <item>STATISTICS</item>
+            <item>BACK</item>
+    </string-array>
+    <string-array name="gamefield_button_texts">
+            <item>STAND</item>
+            <item>END TURN</item>
+            <item>MENU</item>
+    </string-array>
+
+</resources>
